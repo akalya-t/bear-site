@@ -90,7 +90,7 @@ const AboutPage = () => {
               <li>🐾 They are fast runners — some can sprint over 40 km/h.</li>
               <li>🌲 Despite their size, most bears are skilled climbers.</li>
               <li>❄️ Polar bears have black skin under their white fur.</li>
-              <li>🪶 Bears communicate using body language and vocal tones.</li>
+              <li>🌼 Bears communicate using body language and vocal tones.</li>
             </ul>
           </motion.div>
         </div>
@@ -174,7 +174,7 @@ const AboutPage = () => {
             scale: 1.03,
           }}
         >
-          "This project is place in which I checked my UI design skills and storytelling to create meaningful site"
+          "This project is a place where I tested my UI design skills and storytelling to create meaningful site"
         </motion.p>
         <p className="mt-4 text-sm text-[#8b5e3c] opacity-70">
           — Akalya Thirumurugan
