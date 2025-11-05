@@ -41,7 +41,7 @@ const Home = () => {
           animate={{ opacity: 1 }}
           transition={{ delay: 0.4, duration: 1 }}
         >
-          A calm space built with strength, patience, and a love for creation.
+          A calm space built for bears(You can explore here though ).
         </motion.p>
 
         {/* Button with glow and hover pop */}
