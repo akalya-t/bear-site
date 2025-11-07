@@ -15,7 +15,7 @@ const socials = [
   {
     name: "Portfolio",
     icon: <Globe className="w-6 h-6" />,
-    link: "https://linktr.ee/akalyadesigns",
+    link: "https://portfolio-seven-green-64.vercel.app/",
   },
 ];
 
